@@ -1,0 +1,11 @@
+[user]
+	name = micah
+	email = micahthall@gmail.com
+[color]
+	ui = auto
+[core]
+	editor = vim
+[push]
+	default = upstream
+[merg]
+	conflictstyle = diff3
