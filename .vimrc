@@ -28,3 +28,5 @@ let g:kite_supported_languages = ['*']
 
 " Turn off Kite
 " let g:kite_supported_languages = []
+
+let g:kite_tab_complete=1
