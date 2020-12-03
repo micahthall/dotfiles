@@ -1,6 +1,8 @@
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 
+#TEST
+
 # MTH 09/18/20
 #export PATH="/usr/local/mysql/bin:$PATH"
 # MTH 11/28/20 -> Installed Anaconda in order to use Jupyter Notebooks
